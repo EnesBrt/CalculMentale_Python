@@ -69,7 +69,7 @@ def divisionsFacile():
             print(False)
 
 # =============================================
-# Oprŕation niveau moyen
+# Opération niveau moyen
 # =============================================
 
 def additionsMoyen():
@@ -136,7 +136,7 @@ def divisionsMoyen():
             print(False)
 
 # =============================================
-# Oprŕation nevrau difficile
+# Opération nevrau difficile
 # =============================================
 
 def additionsDifficile():
